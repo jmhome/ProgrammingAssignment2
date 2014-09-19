@@ -1,5 +1,5 @@
 ## Written by Jin-Hoon An
-## Sep.17, 2014
+## Sep.18, 2014
 ## Write a short comment describing this function
 
 ## A pair of functions that cache the inverse of a matrix
